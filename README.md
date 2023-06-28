@@ -1,3 +1,10 @@
+IMDB-Clone-Movie-Recommendation-App
+
+Created a IMDB clone Movie Recommender App on React. This React App will provide us the list of Upcoming, Popular & Top Rated movies. On clicking any movie it will show us the detail page of the movie.
+
+Techstack used: React, Redux, REST API, HTML5, CSS3
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
